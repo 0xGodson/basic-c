@@ -14,6 +14,6 @@ int main()
 
         // performing addition
         total = a + b;
-        printf("\n%d + %d = %d",a,b,total);
+        printf("\n%d + %d = %d\n",a,b,total);
  
 }
