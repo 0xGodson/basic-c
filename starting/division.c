@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	int a,b,total;
+	int a,b;
+	float total;
 
 	printf("Enter a: ");
 	scanf("%d",&a);
@@ -9,6 +10,6 @@ int main(){
 	scanf("%d",&b);
 
 	total = a/b;
-	printf("\n%d / %d = %d\n",a,b,total);
+	printf("\n%d / %d = %f\n",a,b,total);
 	return 0;
 }
