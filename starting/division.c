@@ -9,7 +9,7 @@ int main(){
 	printf("Enter b: ");
 	scanf("%d",&b);
 
-	total = a/b;
+	total = a/(float)b;
 	printf("\n%d / %d = %f\n",a,b,total);
 	return 0;
 }
