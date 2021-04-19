@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(){                                                        float a,b,c;
+int main(){   
+        float a,b,c;                                            float a,b,c;
         printf("Enter a:");
         scanf("%f",&a);
         printf("Enter b:");
