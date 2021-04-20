@@ -1,9 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	#include <stdio.h>
-
-int main(){
 	int aa;
 	float bb;
 	char cc;
