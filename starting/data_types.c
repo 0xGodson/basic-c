@@ -14,4 +14,5 @@ int main(){
 	scanf("%Lf",&c);
 	printf("Enter d:");
 	scanf(" %c",&character);
+	return 0;
 }
