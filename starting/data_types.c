@@ -1,18 +1,31 @@
 #include <stdio.h>
 
 int main(){
-	unsigned int a;
-	float b;
-	long double c;
-	signed char character;
+	#include <stdio.h>
 
-	printf("Enter a:");
-	scanf("%d",&a);
-	printf("Enter b:");
-	scanf("%f",&b);
-	printf("Enter c:");
-	scanf("%Lf",&c);
-	printf("Enter d:");
-	scanf(" %c",&character);
+int main(){
+	int aa;
+	float bb;
+	char cc;
+	double dd;
+
+	signed int ee;
+	long double ff;
+	unsigned char gg;
+
+	printf("Enter integer:");
+	scanf("%d",&aa);
+	printf("Enter float:");
+	scanf("%f",&bb);
+	printf("Enter character:");
+	scanf(" %c",&cc);
+	printf("Enter double:");
+	scanf("%lf",&dd);
+	printf("Enter unsigned integer:");
+	scanf("%hi",&ee);
+	printf("Enter long double:");
+	scanf("%Lf",&ff);
+	printf("Enter unsigned character:");
+	scanf(" %c",&gg);
 	return 0;
 }
