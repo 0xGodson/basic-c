@@ -18,7 +18,7 @@ int main(){
 	scanf(" %c",&cc);
 	printf("Enter double:");
 	scanf("%lf",&dd);
-	printf("Enter unsigned integer:");
+	printf("Enter signed integer:");
 	scanf("%hi",&ee);
 	printf("Enter long double:");
 	scanf("%Lf",&ff);
