@@ -4,7 +4,7 @@ void main(){
 	
 	double w1, c1, w2, c2, result;
 
-  printf("Weight - Item1: ");
+        printf("Weight - Item1: ");
 	scanf("%lf", &w1);
 	printf("No. of item1: ");
 	scanf("%lf", &c1);
