@@ -1,4 +1,4 @@
-// Write and execute a C program to check whether the given year is leap year or not
+// Write and execute a C program to Sort the list of numbers using pass by reference
 
 // program:
 #include <stdio.h>
