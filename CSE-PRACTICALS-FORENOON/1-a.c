@@ -1,4 +1,4 @@
-// CHECK WHETHER A GIVEN NUMBER IS ARMSTRONG NUMBER OR NOT?
+// Write and execute a C program to check whether the given number is an Armstrong number or not
 
 // program:
 #include<stdio.h>
