@@ -12,7 +12,7 @@ printf("\nMENU");
 printf("\n1.Create\n2.Push\n3.pop\n4.Display\n5.Exit\n");
 printf("\nEnter your option: ");
 scanf("%d",&opt);
-switch()
+switch(opt)
 {
 case 1:create();break;
 case 2:push();break;
